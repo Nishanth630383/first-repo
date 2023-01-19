@@ -1,3 +1,3 @@
 # first-repo
 Nishanth Raju Saraswathi
-Sun Rises In The East
+Sun Sets In The West
